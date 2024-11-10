@@ -2,6 +2,7 @@
 
 Hertz-dev is an open-source, first-of-its-kind base model for full-duplex conversational audio.
 
+
 See our blog post for more details: https://si.inc/hertz-dev/
 
 ## Setup
